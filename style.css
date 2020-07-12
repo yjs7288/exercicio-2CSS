@@ -183,8 +183,30 @@ article {
         align-items: center;
       }
 @media (max-width: 375px){
-    
+       
+    .ab{
+        width: 90px;
+        height: 50px; 
+    }
+    .primero p{
+width: 150px; 
+font-size: 2xp;
+position: relative;
+display: block;    
+}
 
+nav p{
+width: 375px;
+}
+.pic1{
+width: 375px;
+height: 100px;
+}
+    .titulo{
+font-size:10px;
+width: 375px;
+height: 100px;
+}
  article {
       font-size: 12px;
       flex-direction: column;
